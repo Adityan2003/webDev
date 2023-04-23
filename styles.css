@@ -1,0 +1,45 @@
+body{
+    background-color: #EAF6F6;
+}
+
+hr{
+    background-color: white;
+    color:mediumaquamarine;
+    /* height: 20px; */
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    margin-left: 0%;
+    width: 10%; 
+}
+
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+
+/*  Class declartionsssss */
+.tester{
+    background-color:darkcyan;
+    width: 200px;
+}
+
+.first:hover{
+    /* background-color:black; */
+    content:url(112113002.jpeg);
+    width: 300px;
+}
+.second:hover{
+    background-color:black;
+}
+
+/* ID'ssss */
+
+#heading{
+    border: solid;
+    border-width: 3px;
+    border-radius: 20%;
+    border-color: black;
+}
